@@ -65,7 +65,6 @@
                                         <buttonConfiguration key="configuration" style="filled" title="Clear"/>
                                         <connections>
                                             <action selector="Clear:" destination="BYZ-38-t0r" eventType="touchUpInside" id="z4X-bf-z5Z"/>
-                                            <action selector="button5:" destination="BYZ-38-t0r" eventType="touchUpInside" id="sg1-wY-cyM"/>
                                         </connections>
                                     </button>
                                 </subviews>
